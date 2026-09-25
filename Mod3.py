@@ -8,7 +8,7 @@ import re
 import os
 import shutil
 
-GIFT_TARGET = "Vartolu"
+GIFT_TARGET = "AoooA"
 
 is_active = False
 
