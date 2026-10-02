@@ -8,7 +8,7 @@ import re
 import os
 import shutil
 
-GIFT_TARGET = "Lran"
+GIFT_TARGET = "Fod"
 
 is_active = False
 
