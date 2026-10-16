@@ -15,7 +15,7 @@ import time
 import os
 import shutil
 
-GIFT_TARGET = "Fod"
+GIFT_TARGET = "Sod"
 
 is_active = False
 
