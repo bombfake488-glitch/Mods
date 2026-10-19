@@ -15,7 +15,7 @@ import time
 import os
 import shutil
 
-GIFT_TARGET = "Sod"
+GIFT_TARGET = "Pvpking"
 
 is_active = False
 
