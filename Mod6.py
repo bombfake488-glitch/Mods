@@ -15,7 +15,7 @@ import time
 import os
 import shutil
 
-GIFT_TARGET = "Pvpking"
+GIFT_TARGET = "Kooooood"
 
 is_active = False
 
